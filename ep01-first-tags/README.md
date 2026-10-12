@@ -56,4 +56,4 @@ Check the file name. It must end in .html, not .txt. On Windows, in the Save win
 Put a third `strong` word in the second paragraph. Then, without opening the browser, say what you expect to see.
 
 ## Solution
-The answer is in `../solution`. Try the task first.
+The answer is in [`solution/`](solution/). Try the task first.
